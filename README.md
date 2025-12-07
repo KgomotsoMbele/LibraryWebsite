@@ -6,7 +6,7 @@ A digital library that carries free books accessible to all South Africans.
 
 ST10467825
 kgomotsombele@outlook.com
-Repository link: [https://github.com/KgomotsoMbele/WEDE5020-TheBookery]
+Repository link: (https://github.com/KgomotsoMbele/LibraryWebsite)
 
 ## Project Overview
 
